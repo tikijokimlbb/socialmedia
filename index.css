@@ -89,7 +89,7 @@ h1 {
 }
 
 .social-icons a:hover img {
-    transform: scale(1.2) rotate(15deg); /* Scale up and rotate on hover */
+    transform: scale(1.2) rotate(15deg);
     filter: drop-shadow(0 4px 6px rgba(38, 38, 38, 0.5));
 }
 
