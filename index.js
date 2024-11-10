@@ -1,7 +1,7 @@
 document.addEventListener('copy', function(e) {
-    e.preventDefault(); // Mencegah salinan
+    e.preventDefault();
 });
 
 document.addEventListener('selectstart', function(e) {
-    e.preventDefault(); // Mencegah pemilihan teks
+    e.preventDefault();
 });
