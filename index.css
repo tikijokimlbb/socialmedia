@@ -29,7 +29,7 @@ h1 {
 .profile-container {
     text-align: center;
     padding: 2rem;
-    background: linear-gradient(0deg, #80000060, #EF132760, #0008F060, #0B0D9960);
+    background: linear-gradient(135deg, #0008F060, #0B0D9960, #80000060, #FF040A60);
     backdrop-filter: blur(30px);
     width: 90%;
     max-width: 350px;
